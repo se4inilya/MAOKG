@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T23:10:52.765Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 YaBrowser/21.11.3.942 Yowser/2.5 Safari/537.36" etag="TQcI3PRKbegBGIQetfvS" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T23:15:41.408Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 YaBrowser/21.11.3.942 Yowser/2.5 Safari/537.36" etag="tSRuWmeabkSpPTCOFqnQ" version="16.0.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1379" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#182E3E" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
           <mxGeometry y="200" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y0yZuJV5ynNRILyXGZqt-8" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Аутентифікація лікаря&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="105" y="60" width="180" height="20" as="geometry" />
+          <mxGeometry x="105" y="70" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y0yZuJV5ynNRILyXGZqt-10" value="Вікно &lt;br&gt;аутентифікації" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="235" width="100" height="30" as="geometry" />
@@ -174,7 +174,7 @@
           <mxGeometry x="780" y="115" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y0yZuJV5ynNRILyXGZqt-67" value="" style="rounded=0;labelBackgroundColor=default;sketch=0;fontSize=16;whiteSpace=wrap;html=1;fillColor=none;fontColor=#333333;strokeColor=#D6422B;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="80" width="220" height="170" as="geometry" />
+          <mxGeometry x="40" y="100" width="310" height="270" as="geometry" />
         </mxCell>
         <mxCell id="y0yZuJV5ynNRILyXGZqt-68" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;sketch=0;fontSize=16;fontColor=#FFFFFF;strokeColor=#1CD615;fillColor=none;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="392" y="45" width="200" height="100" as="geometry" />
